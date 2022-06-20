@@ -1,3 +1,3 @@
-# Tom's Lisp Interpreter
+# Tom's Lisp Parser
 
 What is it? How do you make it? How does anyone make anything ever? Maybe I'll find out.
